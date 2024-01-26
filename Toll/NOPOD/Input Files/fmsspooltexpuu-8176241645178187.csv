@@ -1,0 +1,653 @@
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     1
+
+
+Funct: OPRCD                Store As: 71150263
+
+Ranges:                     Begin                    End
+ 1 Manifest Date            01/01/22                 12/02/22
+
+
+
+
+Options:
+ 1 Business Unit                            TNQX
+ 2 Terminal (*=All) or Terminal Group       DAL05
+ 3 Sorted By (C=C/N M=Manifest)             M
+ 4 Spreadsheet                              yes
+
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     2
+Terminal Code : DAL05
+---------------------
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3006863327-00  35424395   YALDEN                                   POD      YAL   17/01/22 1318 OK                     No  Yes arthur                     CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH   1         C
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3034963914-00  35424395   YALDEN                                   POD      YAL   17/01/22 1327 OK                     No  Yes dale                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682806055-00  35424395   YALDEN                                   POD      YAL   17/01/22 1234 OK                     No  Yes garry                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682887450-00  35424395   YALDEN                                   POD      YAL   17/01/22 1300 OK                     No  Yes craig                      CHP
+                                                                                                                                                                     A8
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682887405-00  35424395   YALDEN                                   POD      YAL   17/01/22 1337 OK                     No  Yes sam                        CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH   1         C
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682886576-00  35424395   YALDEN                                   POD      YAL   17/01/22 1248 OK                     No  Yes brodie                     CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     3
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+3006862252-00  35428589   YALDEN                                   OFD                                   NOTDLV                                           CHP
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3006862450-00  35428589   YALDEN                                   OFD                                   NOTDLV                                           CHP
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3006862696-00  35428589   YALDEN                                   OFD                                                                                    CHP   1         T
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3006862023-00  35428589   YALDEN                                   POD      204   03/01/22 0924 OK                     No  Yes mike                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH   1         C
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985690656-00  35428589   YALDEN                                   OFD                                                                                    CHP
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     4
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+2682100528-00  35428589   YALDEN                                   POD      204   03/01/22      OK                     No  Yes clema                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682271372-00  35428589   YALDEN                                   POD      204   07/01/22 1632 OK                     No  Yes anguss                     CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985695170-00  35428589   YALDEN                                   OFD                                                                                    CHP
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985703776-00  35437670   YALDEN                                   POD      YAL   19/01/22      OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A3
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682421562-00  35437670   YALDEN                                   POD      YAL   19/01/22 1257 OK                     No  Yes ian                        CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     5
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+6985702571-00  35437670   YALDEN                                   POD      YAL   19/01/22      OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A12
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985705985-00  35437670   YALDEN                                   POD      YAL   19/01/22      OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985706036-00  35437670   YALDEN                                   POD      YAL   19/01/22 1216 OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985706845-00  35437670   YALDEN                                   POD      YAL   19/01/22      OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A3
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985933807-00  35437670   YALDEN                                   POD      YAL   19/01/22      OK                     No  Yes coops                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     6
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+6985933821-00  35437670   YALDEN                                   POD      IMG   17/01/22      OK                     No  No  Paper POD                  CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683430488-00  35449713   YALDEN                                   POD      YAL   21/01/22 1252 OK                     No  Yes rik                        CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3013123155-00  35449713   YALDEN                                   POD      YAL   21/01/22 1400 OK                     No  Yes max                        CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2623484472-00  35449713   YALDEN                                   POD      IMG   21/01/22 1251 OK                     No  No  Paper POD                  CHP   1   1   1 ET
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985710392-00  35449713   YALDEN                                   POD      YAL   21/01/22 1239 OK                     No  Yes troy                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     7
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+3009165886-00  35449713   YALDEN                                   POD      YAL   21/01/22 1411 OK                     No  Yes paul                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683498754-00  35449713   YALDEN                                   POD      IMG   21/01/22 1210 OK                     Yes No  Paper POD                  CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2339474668-00  35449713   YALDEN                                   POD      IMG   20/01/22 1210 OK                     Yes No  Paper POD                  CHP   3   3   3 ET
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS   1   1   1 ET
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985710132-00  35449713   YALDEN                                   POD      YAL   21/01/22      OK                     No  Yes troy                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682871107-00  35449713   YALDEN                                   POD      YAL   25/01/22 1511 OK                     No  Yes richard                    CHP
+                                                                                                                                                                     A7
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     8
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+2683375321-00  35449713   YALDEN                                   POD      YAL   21/01/22 1144 OK                     No  Yes richard                    CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683380370-00  35449713   YALDEN                                   POD      YAL   24/01/22 1151 OK                     No  Yes holley                     CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+4892326071-00  35449713   YALDEN                                   POD      YAL   21/01/22 1227 OK                     No  Yes phil                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683938335-00  35481655   ESSON                                    POD      TDA   07/02/22      OK                     No  Yes nicky                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2623487961-00  35482954   WILKES                                   POD      TDA   07/02/22 0946 OK                     No  Yes tanks                      CHP   1         E
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:     9
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+3007545437-00  35489486   LANGE                                    POD      TDA   08/02/22 0951 OK                     No  Yes steve                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2623671780-00  35489595   WILKES                                   POD      TDA   08/02/22      OK                     No  Yes tanks                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+4698078143-00  35489595   WILKES                                   POD      TDA   08/02/22 1508 OK                     No  Yes fred                       CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2623488470-00  35489595   WILKES                                   POD      TDA   08/02/22 1010 OK                     No  Yes tanks                      CHP   1         T
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985721855-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:    10
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+6985722685-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683879379-00  35505788   YALDEN                                   POD      YAL   03/02/22 1343 OK                     No  Yes craig                      CHP
+                                                                                                                                                                     A7
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985723750-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683921702-00  35505788   YALDEN                                   POD      YAL   03/02/22 1403 OK                     No  Yes richard                    CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH   1         C
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683924758-00  35505788   YALDEN                                   POD      YAL   03/02/22 1403 OK                     No  Yes richard                    CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:    11
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+2683966246-00  35505788   YALDEN                                   POD      YAL   03/02/22 1437 OK                     No  Yes alan                       CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985721633-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985642082-00  35505788   YALDEN                                   POD      YAL   03/02/22 1219 OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A12
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2339475689-00  35505788   YALDEN                                   POD            03/02/22 1210 OK                     Yes                                CHP   2   2   2 ET
+
+                                                                                                                                                          LOS   2   2   2 ET
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985723705-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:    12
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+6985725976-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+6985726300-00  35505788   YALDEN                                   POD      YAL   03/02/22      OK                     No  Yes matt                       CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2339475672-00  35505788   YALDEN                                   POD            03/02/22 1210 OK                     Yes                                CHP   2   2   2 ET
+
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2682504135-00  35535571   AYRES                                    POD      AYR   10/02/22 1017 OK                     No  Yes geoff                      CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3034992747-00  35535571   AYRES                                    POD      AYR   10/02/22 1017 OK                     No  Yes geoff                      CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+19:51 13/02/22 AEDT   TNQX                                     Connote Delivery Report
+OPRCD         Oper:  Navroz Mehta                                                                                                                              Page:    13
+               Dlv                                                 C/N                     POD   POD           Result Hard Copy MDT Sig    POD         Pallets
+Connote Number Manifest # Driver's Name       Carrier Name        Status  Route   POD Date Time Status  Event  Code   Rec'd     Captured   Rec'd       PU DEL COL Trans  Remarks
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+3003518756-00  35535571   AYRES                                    POD      AYR   10/02/22 1027 OK                     No  Yes steve                      CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2683875739-00  35535571   AYRES                                    POD      TDA   10/02/22 1328 OK                     No  Yes ed                         CHP
+                                                                                                                                                                     A2
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+3006865246-00  35535571   AYRES                                    POD      AYR   10/02/22 1227 OK                     No  Yes allan                      CHP
+                                                                                                                                                                     A3
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH   3         C
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+2725416623-00  35535571   AYRES                                    POD      AYR   10/02/22 1708 OK       NOTDLV   LAT  No  Yes rob                        CHP
+                                                                                                                                                                     A1
+                                                                                                                                                          LOS
+                                                                                                                                                          OTH
+                                                                                                                                                          OCH
+                                                                                                                                                          OLS
+
+
+
+End of job - finished at: 19:51 13/02/22 AEDT
+
